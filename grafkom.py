@@ -1,2 +1,2 @@
 print ("Hello World")
-print ('coba')
+print ('coba wes')
